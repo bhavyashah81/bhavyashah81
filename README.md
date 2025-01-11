@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-## I am Bhavya Shah
+## I am Bhavya Shah. I am a fourth-year computer science student at the University of Waterloo. I am currently a software engineer intern at RedIron, and I am looking for summer or fall 2025 internships.
+
+## I have previously interned at:
+
+## Northhbridge Financial Corporation: Software Developer
+## Legal Aid Ontario: Software Developer
+## Government of Canada : Data Scientist
+## University of Waterloo : Technologies Analyst
+## Elspeth Heyworth Centre for Women: Software Developer
 
 <!--
 **bhavyashah81/bhavyashah81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
