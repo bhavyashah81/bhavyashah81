@@ -4,8 +4,8 @@
 
 ## I have previously interned at:
 
-## Northhbridge Financial Corporation: Software Developer
-## Legal Aid Ontario: Software Developer
+- Northbridge Financial Corporation: Software Developer
+##Legal Aid Ontario: Software Developer
 ## Government of Canada : Data Scientist
 ## University of Waterloo : Technologies Analyst
 ## Elspeth Heyworth Centre for Women: Software Developer
