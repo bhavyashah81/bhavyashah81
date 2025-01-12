@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Bhavya Shah. I am a fourth-year computer science student at the University of Waterloo. I am currently a software engineer intern at RedIron, and I am looking for summer or fall 2025 internships.
+I am Bhavya Shah. I am a fourth-year computer science student at the University of Waterloo. I am currently a software engineer intern at RedIron and am looking for summer or fall 2025 internships!
 
 I have previously interned at:
 
