@@ -10,7 +10,7 @@ I have previously interned at:
 - University of Waterloo: Technologies Analyst
 - Elspeth Heyworth Centre for Women: Software Developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyashah81&layout=compact)](https://github.com/bhavyashah81/github-readme-stats)
+
 <!--
 **bhavyashah81/bhavyashah81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
