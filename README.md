@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 I am Bhavya Shah. I am a fourth-year computer science student at the University of Waterloo.
-I am currently a software engineer intern at RedIron and am looking for summer or fall 2025 internships!
+I am currently a software engineer intern at Snowflake and am looking for new grad 2026 opportunities/full-time opportunities!
 
 I have previously interned at:
 
-- Northbridge Financial Corporation: Software Developer
-- Legal Aid Ontario: Software Developer
-- Government of Canada: Data Scientist
-- University of Waterloo: Technologies Analyst
-- Elspeth Heyworth Centre for Women: Software Developer
+- Rediron Technologies: Software Engineer Intern
+- Northbridge Financial Corporation: Software Developer Intern
+- Legal Aid Ontario: Software Developer Intern
+- Government of Canada: Data Scientist Intern
+- University of Waterloo: Technology Analyst Intern
 
 
 <!--
