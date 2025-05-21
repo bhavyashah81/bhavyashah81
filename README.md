@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Bhavya Shah. I am a fourth-year computer science student at the University of Waterloo.
-I am currently a software engineer intern at Snowflake, I am currently looking for new-grad opportunities for 2026!
+I am currently a software engineer intern at Snowflake, I am currently looking for new-grad/full-time opportunities for 2026!
 
 I have previously interned at:
 
